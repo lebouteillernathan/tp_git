@@ -9,5 +9,6 @@
  <?php
 echo date("d/m/Y");
 ?>
+<p>Et je teste git et VSCode </p>
 </body>
 </html>
